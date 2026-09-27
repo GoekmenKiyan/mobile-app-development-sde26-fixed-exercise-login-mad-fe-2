@@ -1,6 +1,20 @@
 # mad-fe-2
 Login Screen Exercise
 
+## Run the app
+
+1. Open `LoginScreenExercise.xcodeproj` in Xcode.
+2. Choose an iPhone simulator.
+3. Press the Run button or `Cmd + R`.
+
+Use these credentials for the successful login:
+
+- Email: `student@example.com`
+- Password: `password123`
+
+Any other non-empty combination shows the failed-login alert. Empty fields show a
+validation alert before the simulated login begins.
+
 ## Instructions, Requirements and Hints
 
 ### Setting up the project
